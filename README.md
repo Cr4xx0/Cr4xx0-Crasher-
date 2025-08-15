@@ -42,13 +42,16 @@ Usage is at your own risk.
 
 ## License
 
-The APK is not distributed via GitHub.  
-This repository contains documentation only.  
-The application is closed-source and privately maintained.
+The APK is distributed via GitHub.  
+This repository contains not only documentations .  
+The application is was closed-source and privately maintained.                       
 ## Download 
-https://www.mediafire.com/file/xr75sx6mbpw1ro1/TX0CrasherV2.apk/file
+https://www.mediafire.com/file/wmm6e37gg885efa/Cr4xx0V3.0Beta_sign.apk/file
 
 ## Token
 f8cbe2a179e84d7c942ab3f3d4e89a7c5a6d1f3e21c7 b6e498df2c6a92e51f9c
+
+## If Dont work Fuck you 
+Dont spam me for something if it is not working. 
 
 
