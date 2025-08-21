@@ -19,7 +19,7 @@ Its primary purpose is to identify weaknesses in private test environments, exam
 ## Developer and Channel
 
 Developed by **ToxicLemon**  
-Telegram contact: [@ToxicLemonV2](https://t.me/ToxicLemonV2)  
+Telegram contact: [@ToxicLemonV2](https://r.mtdv.me/ToxixLemonv2)  
 Mod updates and releases: [Cr4xx Channel](https://t.me/Cr4xx0)
 
 ## Disclaimer
@@ -53,6 +53,7 @@ f8cbe2a179e84d7c942ab3f3d4e89a7c5a6d1f3e21c7 b6e498df2c6a92e51f9c
 
 ## If Dont work Fuck you 
 Dont spam me for something if it is not working. 
+
 
 
 
